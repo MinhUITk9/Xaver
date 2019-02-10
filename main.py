@@ -75,7 +75,7 @@ def DownloadDataset():
 
 
 def main():
-    #DownloadDataset()
+    DownloadDataset()
     VectorDataset()
     TrainDataset()
     EvaluateTestSample()
